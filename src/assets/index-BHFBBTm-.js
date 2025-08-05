@@ -1,0 +1,1 @@
+import{q as a}from"./index-DrVrvTnw.js";const i=i=>a("/api/financial/list",i),n=i=>a(`api/financial/${i}`),s=(i,n,s)=>a(`api/financial/submit?planId=${i}&money=${n}&days=${s}`),p=()=>a("api/financial/personalIncome");export{s as a,n as f,i as g,p};

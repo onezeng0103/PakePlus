@@ -1,0 +1,1 @@
+import{q as e,t as s}from"./index-DrVrvTnw.js";const a=()=>e("/api/agentActivityInfo/getAgentInfo"),t=()=>s("/api/user/getTeamLevelCensus"),n=e=>s("/api/user/getTeamUserCensus"+(e?"?level="+e:"")),i=e=>s("/api/user/getTeamCensus"+(e?"?level="+e:""));export{t as a,n as b,i as c,a as g};
